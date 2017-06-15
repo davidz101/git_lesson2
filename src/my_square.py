@@ -10,6 +10,9 @@ def my_square(y):
 
  
 def my_square2(x):
+	"""
+	   add document
+	"""
      return (x *x)
 print(my_square(14))
 print(my_square(2))
