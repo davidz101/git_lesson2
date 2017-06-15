@@ -9,6 +9,8 @@ def my_square(y):
     return (y **2)
 
  
-
+def my_square2(x):
+     return (x *x)
 print(my_square(14))
+print(my_square(2))
  
