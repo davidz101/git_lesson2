@@ -1,8 +1,8 @@
-def my_square(x):
+def my_square(z):
     """ takes a value adn return
     
     uses the ** 
     """
-    return (x **2)
+    return (z * Z)
 
-print(my_square(4))
+print(my_square(14))
